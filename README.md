@@ -1,2 +1,2 @@
-MetamapsJSdevApp
-================
+Metamaps Planning
+=================
