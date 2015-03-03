@@ -1,6 +1,8 @@
 Metamaps Planning
 =================
 
+[![Join the chat at https://gitter.im/Connoropolous/Metamaps-Planning](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Connoropolous/Metamaps-Planning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Important Labels to understand:
 
 [Address @ Meeting] - Issues that have been tagged to bring up during out next meeting
